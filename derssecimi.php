@@ -8,7 +8,15 @@
 		echo"<select name='no'>";
 			
 		
-		
+		$dosya =fopen("bilgi.txt","r")
+			while(!feof($dosya))
+			{
+				$kaynak = fgets
+					$kaynak=trim($kaynak);
+				$dizi=explode ("_", $kaynak
+						    echo "<option>"$dizi[0]
+						    }
+				
 		
 		
 		
